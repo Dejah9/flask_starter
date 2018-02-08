@@ -1,3 +1,39 @@
 body {
+    width:600px;
     padding-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pic{
+    width: 450px;
+    height: 350px;
+}
+
+.top{
+    background-color: DodgerBlue;
+    padding: 50px;
+    border-radius: 25px;
+    
+}
+.aboutMe{
+    text-align: center;
+    padding: 20px;
+}
+.container{
+    text-align: center;
+
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.col-{
+        display:inline-block;
+        padding:10px;
+}
+
+.btn {
+	width: 140px;
+	margin-bottom: 20px;
 }
